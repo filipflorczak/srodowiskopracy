@@ -1,0 +1,41 @@
+INSPIRACJE (Słowa, Skojarzenia, Pomysły):
+
+-Focus (Koncentracja)
+-Flow (Stan przepływu)
+-Work-Life Balance (Równowaga Praca-Życie)
+-Digital Detox (Cyfrowy Detoks)
+-Mindfulness (Uważność)
+-Ergonomia (Ruch, przerwy)
+-Wizualizacja postępów (Proste, motywujące wykresy)
+-Cicha kawiarenka (Ambientowe dźwięki tła)
+
+
+KRÓTKA LISTA ELEMENTÓW PROJEKTU:
+
+-Ekran startowy: Szybki dostęp do timera.
+-Timer Pomodoro: Główne narzędzie pracy.
+-Biblioteka przerw: Lista krótkich, 5-minutowych ćwiczeń.
+-Panel Statystyk: Dzienne/Tygodniowe podsumowanie czasu pracy i przerw.
+-Ustawienia: Personalizacja długości sesji i przerw.
+
+
+WSTĘPNE DANE WEJŚCIOWE (np. Lista Kategorii, Lista Funkcji):
+
+-Lista Funkcji (MVP - Minimum Viable Product):
+-Timer Pomodoro (25/5 min domyślnie)
+-Długie przerwy (co 4 cykle, 15 min)
+-Zapis sesji do historii
+-Notyfikacje dźwiękowe (start/koniec)
+-Wykres "Czas pracy vs Czas przerw" (tygodniowy)
+-Lista Kategorii Ćwiczeń na Przerwę (Biblioteka przerw):
+-Ruch i Rozciąganie (np. na krzesło, szyja)
+-Oczy (np. technika 20-20-20)
+-Umysł i Oddech (np. 1-minutowa medytacja)
+-Hydratacja (szybkie przypomnienie)
+
+
+LISTA ŹRÓDEŁ POMYSŁU:
+
+-Własna potrzeba: Problem z przechodzeniem z trybu pracy w tryb odpoczynku podczas pracy zdalnej.
+-Znajomi/Społeczność Zdalna: Obserwacja problemu wypalenia zawodowego i "cyfrowego nadmiaru" u innych.
+-Książki/Metody: Zainspirowane techniką Pomodoro i koncepcjami minimalizmu cyfrowego.
